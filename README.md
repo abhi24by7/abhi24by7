@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate learning software developer</h3>
-
+ -->
+ <h1 align="center">Abhinav Kumar</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar,;A+Full+Stack+Developer+!)](https://git.io/typing-svg)
 
 
