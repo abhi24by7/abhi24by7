@@ -5,9 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi24by7" alt="abhi24by7" /></a> </p>
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **html, css, javascript, react, DSA(c/c++)**
+- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJS, basically front end + back end develope**
 
 - 📫 How to reach me **abhi2407singh@gmail.com**
 
