@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhi2407singh@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TM3jX3aHZ6dCFpd0U3QnO0NqSBgFwnHa/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jX6vTR7ktbsq9DijWfeD1D3Q0bxsUjrW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
