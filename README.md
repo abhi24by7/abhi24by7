@@ -3,9 +3,9 @@
  -->
  <h1 align="center">Abhinav Kumar</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)
+<p align="center" >[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)</p>
 
-<img align ="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align ="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi24by7" alt="abhi24by7" /></a> </p>
 
