@@ -3,7 +3,7 @@
  -->
  <h1 align="center">Abhinav Kumar</h1>
 
-<p align="center" >[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 <img align ="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
