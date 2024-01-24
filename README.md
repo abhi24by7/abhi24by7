@@ -2,8 +2,10 @@
 <h3 align="center">A passionate learning software developer</h3>
  -->
  <h1 align="center">Abhinav Kumar</h1>
-[Website](https://abhi24by7.github.io/abhinav-portfolio/)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)
+
+[Website](https://abhi24by7.github.io/abhinav-portfolio/)
 
 <img align ="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
