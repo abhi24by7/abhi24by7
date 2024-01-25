@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20C20E&duration=2500&font=Bahnschrift&lines=Hi+I'm+Abhinav+Kumar!;A+Full+Stack+Developer.)](https://git.io/typing-svg)
 
-[My Website](https://abhi24by7.github.io/abhinav-portfolio/)
+[My Website](https://abhi24-portfolio.netlify.app/)
 
 <img align ="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
